@@ -24,6 +24,7 @@ Since account info can be faked, it is not really necessary to hide the account 
 	* ~~return an empty download list~~ see remark below
 	* ~~return empty search history~~ see remark below
 
+
 Different browsers (stock, Chrome, Firefox, etc) have different content providers, so this is app specific.
 Browser data is generally not accessible on recent Android versions anymore.
 
