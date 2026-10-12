@@ -2,7 +2,9 @@ name: Build and publish XPL-EX-NEXT v1.6.1
 
 on:
   workflow_dispatch:
-
+push:
+    branches:
+      - XPL-EX-NEXT v1.6.1
 permissions:
   contents: write
 
