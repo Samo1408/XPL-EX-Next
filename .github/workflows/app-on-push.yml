@@ -6,7 +6,7 @@ on:
 
   push:
     branches:
-      - XPL-EX-NEXT-1.6.6
+      - XPL-EX-NEXT-v1.6.6
 
 permissions:
   contents: write
